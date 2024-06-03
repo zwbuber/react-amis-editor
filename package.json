@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "amis": "^6.4.1",
-    "amis-editor": "^6.4.1",
-    "amis-editor-core": "^6.4.1",
+    "amis": "^6.5.0",
+    "amis-editor": "^6.5.0",
+    "amis-editor-core": "^6.5.0",
     "antd": "^5.17.3",
     "axios": "^1.7.2",
     "mobx": "^4.15.7",
